@@ -1,3 +1,5 @@
 # Spark_and_Kafka_Streaming
 
-Jupyter Notebook HTML can be seen here: https://nbviewer.jupyter.org/github/kailinwng/Spark_and_Kafka_Streaming/blob/main/Assignment_PartB_Data_Visualisation.ipynb
+Producer 1, 2 and 3 takes in the CSV data and processes the data as streaming data.
+
+Data_Visualization takes in these data and plots a live line chart that has a pointer pointing to the minimum and maximum temperature of each streaming data.
